@@ -8,8 +8,7 @@ In my current courses I'm learning about software engineering methodologies and 
 
 - 🔭 Currently working on: Course work and Project Galileo 💫🚀!
 - 🌱 Currently learning: software engineering for the cloud
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- 😄 Pronouns: He/Him<!-- - ⚡ Fun fact:  -->
 - 📬How to reach me: [ljstein7@live.com](mailto:ljstein7@live.com) or I'm [logan2319](https://keybase.io/logan2319) on keybase
 
 ## Languages and Tools:
