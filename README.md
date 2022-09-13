@@ -2,13 +2,14 @@
 
 
 
-I'm currently working on earning my Bachelor's Degree in Computer Science at The University of Illinois at Chicago!
+I'm currently working on earning my Bachelor's Degree in Computer Science at The University of Illinois at Chicago. You can find some of my personal projects below. Currently I'm working on Galileo which is a stellar blockchain account value viewer.
 
-In my current courses I'm learning about software engineering methodologies and best practices, Cloud Computing, Data Visualization, and Computer Ethics!
+In my current coursework, I'm learning about software engineering methodologies and best practices; Cloud Computing; Data Visualization; and Computer Ethics.
 
-- 🔭 Currently working on: Course work and Project Galileo 💫🚀!
+- 🔭 Currently working on: Coursework and Project Galileo 💫🚀!
 - 🌱 Currently learning: software engineering for the cloud
-- 😄 Pronouns: He/Him<!-- - ⚡ Fun fact:  -->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a coffee snob! My favorite right now is a light roast with notes of blueberry, lemon lime, and brown sugar.
 - 📬How to reach me: [ljstein7@live.com](mailto:ljstein7@live.com) or I'm [logan2319](https://keybase.io/logan2319) on keybase
 
 ## Languages and Tools:
