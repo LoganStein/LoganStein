@@ -4,12 +4,10 @@
 
 I'm currently working on earning my Bachelor's Degree in Computer Science at The University of Illinois at Chicago. You can find some of my personal projects below. Currently I'm working on Galileo which is a stellar blockchain account value viewer.
 
-In my current coursework, I'm learning about database management systems, User Interface Design, Operating System Design, and Machine Learning.
-
-- 🔭 Currently working on: Coursework and Project Galileo 💫🚀!
-- 🌱 Currently learning: Kernel programming
+- 🔭 Currently working on: A rust based online multiplayer tic-tac-toe game and Project Galileo 💫🚀!
+- 🌱 Currently learning: Rust and web assembly
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a coffee snob! My favorite right now is a light roast with notes of blueberry, lemon lime, and brown sugar.
+- ⚡ Fun fact: I'm a coffee snob! My favorite right now is a light roast with notes of peanut butter, lime, and cream.
 - 📬How to reach me: [ljstein7@live.com](mailto:ljstein7@live.com) or I'm [logan2319](https://keybase.io/logan2319) on keybase
 
 ## Languages and Tools:
