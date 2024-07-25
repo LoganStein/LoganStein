@@ -7,7 +7,7 @@ You can find some of my personal projects below. Currently I'm working on Galile
 - 🔭 Currently working on: A simple white label Ecommerce website in React and Project Galileo 💫🚀!
 - 🌱 Currently learning: Soroban Smart Contracts
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a coffee snob! My favorite right now is a light roast with notes of peanut butter, lime, and cream.
+- ⚡ Fun fact: I'm a coffee snob! My favorite right now is a medium roast with notes of berries and chocolate milk. It uses a blend of washed and natural processes. My favorite way to enjoy it is in a cortado. 
 - 📬How to reach me: [ljstein7@live.com](mailto:ljstein7@live.com) or I'm [logan2319](https://keybase.io/logan2319) on keybase
 
 ## Languages and Tools:
